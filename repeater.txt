@@ -1,0 +1,4 @@
+ASK         #prompt the user for input
+REPEAT      #repeat the order 4 times 
+FULL_ORDER
+BLACK

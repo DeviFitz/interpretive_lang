@@ -1,0 +1,2 @@
+ORDER       # Take input string from user and push ASCII codes onto stack
+BLACK       # Terminate program execution

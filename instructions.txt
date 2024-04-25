@@ -1,0 +1,18 @@
+DECAF               #Push 0 onto the stack
+FRAP                #Duplicate the top value of the stack
+EXTRA_SHOT          #Add 1 to the top value of the stack
+MOCHA               #B*A and pushes result to the stack
+ORDER               #Takes one character of input and pushes it's ascii code to the stack
+POUR                #Takes a character and pushes it's ascii code to the stack
+ASK                 #Prompts the user for a single character input for the repeater function
+REPEAT              #Takes a character and a number from the stack, and repeats the character the specified number of times.
+NAME                #Takes user input characters and puts them on the stack
+TIP                 #Takes two user inputs as integers
+GREETINGS           #Prints the string "helloworld"
+READY               #Pop the top value of the stack and print it as an ascii character
+COST                #Pop the top value of the stack and print it as an integer
+LATTE               #Pop the top of the stack. If it is zero, jump to the nth line
+COLD_FOAM           #Pop the top of the stack and push it to the bottom
+SHAKEN_ESPRESSO     #Remove the bottom value of the stack and push it to the top
+FULL_ORDER          #print the entire stack
+BLACK               #Terminate program execution
